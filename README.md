@@ -44,4 +44,23 @@ Research-oriented AI/ML undergraduate who likes turning models and prompts into 
 Built an AI-powered FAQ generation system for the Samagama portal using LLMs, prompt engineering, and data preprocessing — working with a 12-member research team on Git/GitHub to improve response quality and consistency.
 
 **Research & Development Associate** — E-Cell, Vishnu Institute of Technology · Nov 2025 – Apr 2026
-Supported startup
+Supported startup ideation, technical research, and project documentation; collaborated across teams on technical events and entrepreneurship initiatives.
+
+---
+
+### 🏆 Certifications & Awards
+
+- 🏆 **Winner** — IoT Hackathon (Smart Detection of Inflammable Gases)
+- ☕ **Programming in Java** — NPTEL
+- 🤖 **AI First Software Engineering** — Infosys Springboard
+- 💬 **OpenAI GPT for Developers** — Infosys Springboard
+- ✍️ **Prompt Engineering** — Infosys Springboard
+
+---
+
+### 📫 Connect with me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mekasowjanya6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sowjanya-meka-98a689345)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mekasowjanya24)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/MekaSowjanya/)
