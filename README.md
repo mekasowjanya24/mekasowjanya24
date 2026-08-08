@@ -47,6 +47,8 @@ Built an AI-powered FAQ generation system for the Samagama portal using LLMs, pr
 Supported startup ideation, technical research, and project documentation; collaborated across teams on technical events and entrepreneurship initiatives.
 
 ---
+![Sowjanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekasowjanya24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sowjanya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mekasowjanya24&theme=tokyo-night&hide_border=true&area=true)
 
 ### 🏆 Certifications & Awards
 
