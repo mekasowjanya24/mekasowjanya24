@@ -47,7 +47,7 @@ Built an AI-powered FAQ generation system for the Samagama portal using LLMs, pr
 Supported startup ideation, technical research, and project documentation; collaborated across teams on technical events and entrepreneurship initiatives.
 
 ---
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mekasowjanya24/mekasowjanya24/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mekasowjanya24/mekasowjanya24/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mekasowjanya24/mekasowjanya24/output/github-contribution-grid-snake.svg" /> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mekasowjanya24/mekasowjanya24/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mekasowjanya24/mekasowjanya24/output/pacman-contribution-graph.svg" /> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mekasowjanya24/mekasowjanya24/output/pacman-contribution-graph.svg" /> </picture>
 
 ![Sowjanya's GitHub Streak](https://streak-stats.demolab.com/?user=mekasowjanya24&theme=tokyonight)
 ![Sowjanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekasowjanya24&show_icons=true&theme=tokyonight&hide_border=true)
